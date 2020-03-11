@@ -30,7 +30,7 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Serenity.Web" Version="3.9.14" />
     <PackageReference Include="Serenity.Web.Assets" Version="3.9.2" />
-    <PackageReference Include="Serenity.Scripts" Version="3.9.14" />
+    <PackageReference Include="Serenity.Scripts" Version="3.12.4" />
   </ItemGroup>
   <ItemGroup Condition=" '$(TargetFramework)' == 'net461' ">
     <PackageReference Include="EPPlus" Version="4.5.2.1" />
